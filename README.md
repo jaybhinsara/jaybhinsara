@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jay Bhinsara</h1>
 
 <p align="center">
-  <img src="A DEVELOPER.png" alt="Landscape Banner" width="100%" />
+  <img src="Github_banner (3).png" alt="Landscape Banner" width="100%" />
 </p>
 
 <p align="center">
